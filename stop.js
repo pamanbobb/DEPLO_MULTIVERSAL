@@ -1,0 +1,1 @@
+alert("SERVER HAS FINALLY STOPED !.. GOOD BYEE !!");
